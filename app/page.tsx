@@ -25,7 +25,7 @@ export default function Home() {
           Launchpad
         </a>
         <a className="nav-link" href="#features">
-          Explore
+          Explore More here
           <span aria-hidden="true">↗</span>
         </a>
       </nav>
