@@ -33,7 +33,7 @@ export default function Home() {
       <section className="hero" id="top">
         <div className="hero-copy">
           <p className="eyebrow">
-            <span /> Next.js starter
+            <span /> Next.js starter with the AWS 
           </p>
           <h1>
             Build something
