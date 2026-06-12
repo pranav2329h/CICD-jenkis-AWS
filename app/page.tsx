@@ -25,7 +25,7 @@ export default function Home() {
           Launchpad
         </a>
         <a className="nav-link" href="#features">
-          Explore More here this is the 2nd test 
+          Explore More here this is the 3rd test for the AWS
           <span aria-hidden="true">↗</span>
         </a>
       </nav>
